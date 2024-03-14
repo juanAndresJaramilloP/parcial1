@@ -34,40 +34,62 @@ function Home() {
             <div className="d-flex flex-row">
                 <Row className="d-flex flex-row">
                     <Col>
-                        <img src={"https://picsum.photos/350"} alt="random" />
+                        <Link to="/Detalle">
+                            <img src={"https://picsum.photos/350"} alt="random" />
+                        </Link>
+                    </Col>
+                    <Col>
+                        <Link to="/Detalle">
+                            <img src={"https://picsum.photos/350"} alt="random" />
+                        </Link>
+                    </Col>
+                    <Col>
+                        <Link to="/Detalle">
+                            <img src={"https://picsum.photos/350"} alt="random" />
+                        </Link>
+                    </Col>
+                    <Col>
+                        <Link to="/Detalle">
+                            <img src={"https://picsum.photos/350"} alt="random" />
+                        </Link>
+                    </Col>
+                    <Col>
+                        <Link to="/Detalle">
+                            <img src={"https://picsum.photos/350"} alt="random" />
+                        </Link>
+                    </Col>
+                    <Col>
+                        <Link to="/Detalle">
+                            <img src={"https://picsum.photos/350"} alt="random" />
+                        </Link>
                     </Col>
                     <Col>
                         <img src={"https://picsum.photos/350"} alt="random" />
                     </Col>
                     <Col>
-                        <img src={"https://picsum.photos/350"} alt="random" />
+                        <Link to="/Detalle">
+                            <img src={"https://picsum.photos/350"} alt="random" />
+                        </Link>
                     </Col>
                     <Col>
-                        <img src={"https://picsum.photos/350"} alt="random" />
+                        <Link to="/Detalle">
+                            <img src={"https://picsum.photos/350"} alt="random" />
+                        </Link>
                     </Col>
                     <Col>
-                        <img src={"https://picsum.photos/350"} alt="random" />
+                        <Link to="/Detalle">
+                            <img src={"https://picsum.photos/350"} alt="random" />
+                        </Link>
                     </Col>
                     <Col>
-                        <img src={"https://picsum.photos/350"} alt="random" />
+                        <Link to="/Detalle">
+                            <img src={"https://picsum.photos/350"} alt="random" />
+                        </Link>
                     </Col>
                     <Col>
-                        <img src={"https://picsum.photos/350"} alt="random" />
-                    </Col>
-                    <Col>
-                        <img src={"https://picsum.photos/350"} alt="random" />
-                    </Col>
-                    <Col>
-                        <img src={"https://picsum.photos/350"} alt="random" />
-                    </Col>
-                    <Col>
-                        <img src={"https://picsum.photos/350"} alt="random" />
-                    </Col>
-                    <Col>
-                        <img src={"https://picsum.photos/350"} alt="random" />
-                    </Col>
-                    <Col>
-                        <img src={"https://picsum.photos/350"} alt="random" />
+                        <Link to="/Detalle">
+                            <img src={"https://picsum.photos/350"} alt="random" />
+                        </Link>
                     </Col>
                 </Row>
             </div>

@@ -3,7 +3,7 @@ import './App.css';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home from './components/Home';
 import Perfil from './components/Perfil';
-
+import Detalle from './components/Detalle';
 function App() {
 
   return (
@@ -12,7 +12,7 @@ function App() {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/Perfil" element={<Perfil />} />
-          <Route path="/characters/:characterId" element={<Home />} />
+          <Route path="/Detalle" element={<Detalle />} />
         </Routes>
       </BrowserRouter>
     </div>
