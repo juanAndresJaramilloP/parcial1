@@ -20,3 +20,6 @@ Siga los mismos pasos descritos para la ejecución de la primera parte del parci
 
 <br>
 
+#### Reporte de las decisiones:
+
+Debido a las fuertes restricciones de tiempo impuestas por la duración del parcial, decidi empezar por la elaboracion de los tres componentes, sin preocuparme, en un principio, por la generación del JSON con la información de los usuarios y el fetch de las images. Dicho esto, lo primero que construí fue el home page, luego procedi a constuir el perfil y finalmente, dejé el esqueleto para desplegar el detalle de un post. Luego, procedí a realizar el fetch de las imagenes y trabajar en el despliegue de las mismas en los 3 componentes. Esta parte me terminó de consumir el tiempo estipulado para completar el parcial, debido a que, en un principio, intenté realizar este fetch haciendo uso de un hook de efecto (useEffect)
